@@ -1,0 +1,9 @@
+Đọc file dữ liệu 'babies.txt' (sử dụng hàm read_csv('babies.txt', sep='\+s'))
+
+- Mô tả: 
+	+ bwt: trọng lượng của bé sơ sinh (baby weight), đơn vị ounces
+	+ smoke: thai phụ có hút thuốc (1), không hút thuốc (0), hoặc không xác định (9)
+	
+- Câu hỏi: Liệu cân nặng của trẻ sơ sinh có ảnh hưởng bởi việc hút thuốc của người mẹ hay không? Bạn hãy trả lời câu hỏi này bằng cách
+	+ sử dụng các số liệu thống kê
+	+ vẽ đồ thị để so sánh.
